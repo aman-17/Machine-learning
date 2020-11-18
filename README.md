@@ -9,3 +9,5 @@ This repository is made to explore various types of machine learning problems.
 ### 3. Loan Detection (ML3).
 
 ### 4. k-nearest neighbors on the Iris Flowers Dataset (ML4).
+
+### 5. Heart disease prediction (ML5).
